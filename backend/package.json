@@ -1,0 +1,26 @@
+{
+  "name": "sangamverma",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step required'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00sangam/sangamverma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00sangam/sangamverma/issues"
+  },
+  "homepage": "https://github.com/00sangam/sangamverma#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
